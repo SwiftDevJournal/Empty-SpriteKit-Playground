@@ -10,4 +10,4 @@ The playground's live view shows the game scene so it's important that the playg
 
 Above the editor where you type the source code is the jump bar. On the right side of the jump bar are two small buttons. Click the left button and make sure there's a checkmark next to Live View. If not, choose Live View.
 
-Below the Live View menu item that appears when clicking the left button is a Layout item. Click that button to determine whether the live view appears next to the editor or below the editor.
+Below the Live View menu item that appears when clicking the left button is a Layout item. Click that button to specify whether the live view appears next to the editor or below the editor.
